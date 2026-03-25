@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# VS/Rider metadata
+.vs/
+.idea/
+*.user
+
+# macOS
+.DS_Store
+
+# Runtime data file (generated at runtime)
+data.json
